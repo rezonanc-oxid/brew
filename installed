@@ -13,6 +13,7 @@ iperf
 midnight-commander
 neovim/neovim/neovim
 netcat
+homebrew/dupes/openssh
 packer
 parallel
 pigz
