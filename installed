@@ -16,6 +16,7 @@ packer
 parallel
 pigz
 pixz
+pstree
 python
 python3
 ruby
