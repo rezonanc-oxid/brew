@@ -511,7 +511,7 @@ end
 class CoreTap < Tap
   if OS.mac?
     def default_remote
-      "https://github.com/rezonanc/homebrew-core"
+      "https://github.com/rezonanc-oxid/homebrew-core"
     end
   else
     def default_remote
