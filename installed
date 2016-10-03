@@ -14,6 +14,7 @@ iperf
 midnight-commander
 neovim/neovim/neovim
 netcat
+npm
 homebrew/dupes/openssh
 packer
 parallel
